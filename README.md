@@ -1,0 +1,2 @@
+# NewGame
+FOR mining game
